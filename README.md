@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kgilroy12
+- 👀 I’m interested in developing my use of varied programming languages
+- 🌱 I’m currently learning full stack development and using python
+- 💞️ I’m looking to collaborate on small projects to build my knowledge base
+- 📫 How to reach me kgilroy12@gmail.com is my email, reach out
